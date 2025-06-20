@@ -146,7 +146,7 @@ footer {
 }
 
 #switch button:hover {
-  outline: 8px solid var(--surface-color););
+  outline: 8px solid var(--surface-color);
 }
 
 .light #switch button {
